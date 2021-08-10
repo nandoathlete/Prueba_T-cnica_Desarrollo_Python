@@ -1,0 +1,8 @@
+1. Ejecutar comando desde la terminal Ubuntu:
+
+	$ nodejs index.js
+
+2. package.json trae los paquetes requeridos los cuales están ubicados en "node_modules"
+
+3. En el direcotorio "database" se debe encontrar la base de datos generada por el Script "main.py" 
+con PyCharm.

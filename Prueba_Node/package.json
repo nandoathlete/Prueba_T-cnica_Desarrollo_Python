@@ -1,0 +1,21 @@
+{
+  "name": "Prueba_Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "err": "^2.1.12",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "message": "0.0.1",
+    "render": "^0.1.4",
+    "sqlite3": "^5.0.2"
+  }
+}

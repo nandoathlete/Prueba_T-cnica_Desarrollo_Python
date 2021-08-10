@@ -1,0 +1,20 @@
+1. Abrir Pycharm (Python 3.8)
+
+2. Crear nuevo proyecto, dentro de este se copia el Script "main.py" y "bdatos.csv"
+	
+	Este Script leerá el archivo .csv y
+	generará la base de datos denominada
+	"Registro.db" por medio de sqlite3.
+
+3. El archivo requirements.txt lista los módulos requeridos para ejecutar el "main.py"
+	
+	Instalar mediante pip
+
+
+4. Una vez que se ejecute el Script "main.py" (Desde el entorno virtual que requiere Pycharm)
+este, creará la base de datos denominada "Registro.db", donde:
+	
+	- Copiar "Registro.db" generado por Pycharm en la ruta: 
+	  /Prueba_Técnica_Desarrollo_Python/Prueba_Node/database
+
+
